@@ -11,7 +11,7 @@ public class C03InOneNum {
 			System.out.print("입력: ");
 			input = sc.nextInt();
 		} while(!(1 <= input && input <= 9)); // 1자리 숫자가 아니면 계속 실행한다. 1자리 숫자가 나오면 실행을 멈춘다.
-		  
+		 
 		System.out.println("끝.");
 	}
 }
