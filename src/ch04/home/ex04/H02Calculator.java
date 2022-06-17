@@ -33,7 +33,7 @@ public class H02Calculator {
 		} while(gogo == 'y');
 		
 		System.out.println("끝."); */ // 내가 한 알고리즘
-		
+		 
 		int a = 0;
 		int b = 0;
 		char op = 0;

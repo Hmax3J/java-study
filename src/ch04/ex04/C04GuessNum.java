@@ -11,7 +11,7 @@ public class C04GuessNum {
 		String msg = "";
 		
 		target = (int)(Math.random() * 1000) + 1;
-		
+		 
 		do {
 			System.out.print("Âï¾îºÁ.: ");
 			guess = sc.nextInt();

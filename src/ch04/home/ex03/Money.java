@@ -12,7 +12,7 @@ public class Money {
 			tot += tmp;
 		}
 		
-		System.out.printf("\n%d¿øÀ» ²¨³Â½À´Ï´Ù.", tot);
+		System.out.printf("\n%d¿øÀ» ²¨³Â½À´Ï´Ù.", tot); 
 	}
 }
 /*
