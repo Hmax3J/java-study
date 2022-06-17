@@ -13,7 +13,6 @@ public class C02DrawingLots {
 		System.out.printf("%d회 뽑아서, %d를 찾았습니다.", pickCnt, random);
 	}
 }
-
 /*
 3의 배수를 뽑을 때 까지, 계속 뽑아야지.
 3의 배수가 아니면, 뽑아야지.
