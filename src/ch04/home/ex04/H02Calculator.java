@@ -47,7 +47,7 @@ public class H02Calculator {
 			op = sc.nextLine().charAt(0);
 			System.out.print("b: ");
 			b = sc.nextInt(); sc.nextLine();
-			
+			 
 			switch(op) {
 			case '+': result = a + b; break;
 			case '-': result = a - b; break;

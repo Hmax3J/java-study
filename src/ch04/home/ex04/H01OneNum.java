@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class H01OneNum {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		 
+		  
 	/*	String input = "";
 		int len = 0;
 		

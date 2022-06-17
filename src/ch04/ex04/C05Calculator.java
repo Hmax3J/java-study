@@ -13,7 +13,7 @@ public class C05Calculator {
 		boolean isGood = false;
 		int result = 0;
 		String isRepeat = "";
-		 
+		  
 		do {
 			do {
 				System.out.print("a: ");
